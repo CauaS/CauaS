@@ -1,16 +1,19 @@
-### Hi there 👋
+### Howdy!!
 
-<!--
-**CauaS/CauaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauas&theme=react&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauas&&theme=react&layout=compact">
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/caligiuri-cau%C3%A3-dos-santos-872790a4/">
+    <img atl="linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
+  <a/>
+  <a href="mailto:kalikaua@gmail.com">
+    <img atl="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
